@@ -1,0 +1,31 @@
+# Google Cloud Project & Location Configuration
+project_id = <project-id>
+region     = <region>>
+location   = "global"
+
+# Enterprise Gemini App & Organization Details
+app_name              = "gemini-enterprise-app"
+company_name          = "Sample Company"
+workspace_admin_email = "admin@samplecompany.com"
+
+# Slack Connector OAuth Credentials
+slack_client_id       = "your-slack-client-id"
+slack_client_secret   = "your-slack-client-secret"
+
+# Jira Connector OAuth Credentials
+jira_client_id        = "your-jira-client-id"
+jira_client_secret    = "your-jira-client-secret"
+jira_instance_uri     = "https://example.atlassian.net"
+jira_instance_id      = "00000000-0000-0000-0000-000000000000"
+
+# GitHub Connector OAuth Credentials
+github_client_id      = "your-github-client-id"
+github_client_secret  = "your-github-client-secret"
+github_refresh_token  = "your-github-refresh-token"
+
+
+# Google Drive Connector OAuth Credentials
+drive_client_id       = "your-drive-client-id"
+drive_client_secret    = "your-drive-client-secret"
+
+
